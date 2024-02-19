@@ -1,1 +1,1 @@
-# Next-Gen-Algorithm-for-Underwater-Dehazing
+# Under-Water Dehazing
